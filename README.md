@@ -15,7 +15,7 @@ To run the script, you need to have the following installed on your machine:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ismail-amouma/Arbitrage_Opportunities_Finder
 ```
 
 2. Install the required Python libraries:
